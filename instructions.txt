@@ -1,4 +1,4 @@
 --location of each folder
 .vim to /Users/User/
-vim to /Users/Tomas/AppData/Local/
+vim to /Users/User/AppData/Local/
 

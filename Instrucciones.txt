@@ -1,1 +1,4 @@
---Instrucciones se uso de los archivos
+--location of each folder
+.vim to /Users/User/
+vim to /Users/Tomas/AppData/Local/
+
